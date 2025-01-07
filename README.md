@@ -104,11 +104,3 @@ model.add(Dense(1))
 3. Model Comparison: Experiment with advanced architectures like GRU or Transformer models for better accuracy.
 4. Broader Application: Extend the model to predict prices for multiple cryptocurrencies simultaneously.
 
----
-
-## License
-This project is licensed under the MIT License. For more details, see the [LICENSE](LICENSE) file.
-
----
-
-Feel free to let me know if you'd like any further changes!
